@@ -46,4 +46,3 @@ Exploratory data analysis using Python, Numpy, Pandas, Seaborn
   <li>This dataset has real raw data which has all inconvenient moments (as NA’s for example).</li>
 <li>This dataset contains data for more than 9.5K cars sale in Ukraine. Most of them are used cars so it opens the possibility to analyze features related to car operation.</li></ul>
 
-<h2>--><a href="https://github.com/rohinegi548/EDA---Carsale-Advertisement-Dataset/blob/master/EDA_CarsaleAdvertisement.ipynb">Python notebook is here</a></h2>
